@@ -13,7 +13,7 @@ O projeto tem como objetivo extrair informações dos produtos disponíveis no s
 
 
 # Tecnologias Usadas
-* ![Node](img/node.png)
+<img src="img/node.png" alt="Node" width="100" height="100">
 * ![Puppeteer](img/Puppeteer.png)
 * ![Swagger](img/Swagger-logo.png)
 * ![Express](img/express.png)
