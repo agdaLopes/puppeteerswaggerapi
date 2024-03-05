@@ -1,6 +1,5 @@
 <div align="center">
   <a>
-    <img src="https://avatars.githubusercontent.com/u/28140896?s=200&v=4" alt="Logo" width="80" height="80">
     <img src="https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg" alt="Logo" width="200" height="80">
   </a>
 
